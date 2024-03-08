@@ -12,6 +12,8 @@ def generate_password(mac_address):
       'E': '1',
       'F': '0',
       '8': '7',
+      '9': '6',
+      '6': '9',
       '5': 'A',
       '4': 'B',
       '3': 'C',
@@ -41,7 +43,7 @@ def main():
 
    ###### fh_xxxxxx Crack #########
    #     Developer: @y053f01      #
-   #     Version: 1.0             #
+   #     Version: 1.1             #
    #     Target: FiberHome Modem  #
    #     Modem version: HG6245N   #
    #    (c) All rights reserved   #
